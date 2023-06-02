@@ -1,5 +1,5 @@
-﻿using CoffeeShop.ShopInfoTool.Model;
-namespace CoffeeShop.ShopInfoTool.Data;
+﻿namespace CoffeeShop.ShopInfoTool.Data;
+using CoffeeShop.ShopInfoTool.Model;
 
 public class CoffeeShopDataProvider
 {
