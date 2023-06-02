@@ -27,6 +27,10 @@ namespace CoffeeShop.ShopInfoTool
 
                     }
                 }
+                else
+                {
+                    Console.WriteLine($"Invalid command: {command}");
+                }
             }
         }
     }
